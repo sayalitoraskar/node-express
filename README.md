@@ -2,7 +2,6 @@
 
 
 ### TECH
-  - Serverless : https://www.serverless.com/framework/docs/getting-started/
   - NODEJS + EXPRESS : https://nodejs.org/en/download/
 
 
